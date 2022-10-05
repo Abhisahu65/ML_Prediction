@@ -2,3 +2,7 @@ Flask
 Numpy
 Pandas
 matplotlib
+sklearn
+gunicorn
+
+
